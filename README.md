@@ -4,8 +4,8 @@
 This is a batman arkham knight subtitle localization tool that I made earlier for the another team.
 
 USAGE:
- - Export : BatmanAK-SubtitleTool.exe -e <FolderName Or FileName> [Language]
- - Import : BatmanAK-SubtitleTool.exe -i <FolderName Or FileName> [Language]
+ - Export : BatmanAK-SubtitleTool.exe -e \<FolderName Or FileName\> [Language]
+ - Import : BatmanAK-SubtitleTool.exe -i \<FolderName Or FileName\> [Language]
   
 NOTES:
  - The tool ONLY works with uncompressed upk files. You can use the [decompress tool](https://www.gildor.org/down/47/umodel/decompress.zip) (by glidor) to decompress the files.
