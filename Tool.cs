@@ -16,7 +16,6 @@ namespace BatAkTool
         {
             Console.WriteLine("Batman Arkham Knight Subtitle Tool - v1.7");
             Console.WriteLine("By NoobInCoding (thanks to fillmsn & celikeins)");
-            Console.WriteLine("---MADE ONLY FOR FARSISAZ.COM!---");
             string Strs = "";
             if (args.Length == 2 || args.Length == 3)
             {
