@@ -1,7 +1,7 @@
 # Batman Arkham knight Subtitle Tool
 **by NoobInCoding**
 
-This is a batman arkham knight subtitle localization tool that I made earlier for the another team.
+This is the batman arkham knight subtitle localization tool which can help you to translate subtitles.
 
 USAGE:
  - Export : BatmanAK-SubtitleTool.exe -e \<FolderName Or FileName\> [Language]
@@ -13,5 +13,5 @@ NOTES:
  - For Import File , the exported text file must be besides the selected file.
  - Language Is Default on English but if you want to change it you must enter a number between 0 to 11.
  
- ##### Thanks to: fillmsn & celikeins
+ ##### Thanks to: fillmsn & celikeins & cousty
  
